@@ -16,3 +16,4 @@
 - The frontend expects the backend API at `VITE_API_URL`.
 - Example:
   `VITE_API_URL=http://localhost:5000/api`
+  
